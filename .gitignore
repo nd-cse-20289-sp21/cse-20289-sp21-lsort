@@ -1,6 +1,6 @@
 bin/lsort
-bin/test_node
-bin/test_list
+bin/unit_node
+bin/unit_list
 *~
 *.o
 *.pyc
