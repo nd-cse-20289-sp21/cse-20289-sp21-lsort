@@ -1,0 +1,10 @@
+bin/lsort
+bin/test_node
+bin/test_list
+*~
+*.o
+*.pyc
+*.swp
+*.exe
+*.so
+*.a
